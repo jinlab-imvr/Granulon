@@ -1,10 +1,28 @@
 
 # Granulon: Awakening Pixel-Level Visual Encoders with Adaptive Multi-Granularity Semantics for MLLM
 
-<p align="center">
-  <b>Granulon</b> explores how to awaken the potential of pixel-level visual encoders for multimodal large language models through adaptive multi-granularity semantic modeling.
+
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2602.14512-b31b1b.svg)](https://arxiv.org/abs/2603.08800)&nbsp;
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/pdf/2603.08800)&nbsp;
+
+</div>
+
+<p align="center" style="font-size: larger;">
+  <a href="https://arxiv.org/abs/2603.08800">
+    Granulon: Awakening Pixel-Level Visual Encoders with Adaptive Multi-Granularity Semantics for MLLM
+  </a>
 </p>
 
+<div>
+  <p align="center" style="font-size: larger;">
+    <strong>Awakening the potential of pixel-level visual encoders for MLLMs through adaptive multi-granularity semantic modeling</strong>
+  </p>
+</div>
+
+
+<br>
 ---
 
 ## Overview
