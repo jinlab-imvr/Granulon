@@ -3,6 +3,7 @@ from transformers import TrainerCallback, TrainerControl, TrainerState
 
 logger = logging.getLogger(__name__)
 
+
 class ProjectorGradMonitor(TrainerCallback):
 
     def _log_projector_grads(self, tag: str, model, step: int):
